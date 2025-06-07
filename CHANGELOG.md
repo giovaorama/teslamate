@@ -27,6 +27,7 @@
 - build(deps): update flake.lock (#4772)
 - build(deps): bump phoenix_ecto from 4.6.3 to 4.6.4 (#4779)
 - build(deps): bump tesla from 1.14.1 to 1.14.2 (#4780)
+- fix(nix): update mix dependency hash in nix builds (#4780 - @JakobLichterfeld)
 
 #### Dashboards
 
